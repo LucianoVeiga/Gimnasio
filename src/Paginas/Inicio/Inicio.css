@@ -1,0 +1,133 @@
+.descripcion {
+    color: white;
+    width: 30%;
+    margin-left:25%;
+    padding-bottom: 20%;
+    margin-top: 12%;
+    padding-right: 30%;
+    position: absolute;
+}
+
+#titulo {
+    font-size: 80px;
+    margin-top: 32%;
+    margin-bottom: 0%;
+}
+
+#titulo2 {
+    display: flex;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 3%;
+}
+
+.texto {
+    color: #363636;
+    margin-left: 8.3%;
+}
+
+.texto2 {
+    color: white;
+    margin-left: 60%;
+    padding: 5%;
+}
+
+.localizacion {
+    padding: 10%;
+    border: 2px solid white;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 13%;
+    margin-left: 62%;
+    position: absolute;
+    width: 150px;
+    height:50px;
+    zoom: normal;
+}
+
+.localizacion:hover .localizacion:focus .localizacion:active {
+    zoom: 1;
+}
+
+.primera {
+    padding-bottom: 50%;
+    display: flex;
+    background-image: url(./fondo.jpg);
+    background-size: 750px 500px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.segunda {
+    padding-top: 15%;
+    padding-bottom: 10%;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.tercera {
+    background-color: #00253a;
+    color: white;
+    padding-bottom: 10%;
+}
+
+.fotossegunda {
+    display: flex;
+    margin: auto;
+}
+
+.bloque {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    margin: auto;
+    width: 80%;
+    height: 200px;
+}
+
+.img {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    border: 2px solid #363636;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#img1 {
+    background-image: url(./Imagen2.jpg);
+    cursor: default;
+    box-shadow: inset 0px 0px 100px #000000;
+}
+
+#img2 {
+    background-image: url(./Imagen3.jpg);
+    cursor: default;
+    box-shadow: inset 0px 0px 100px #000000;
+}
+
+#img3 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(./Imagen4.png);
+    box-shadow: inset 0px 0px 30px #000000;
+    transition: all 1s;
+}
+
+#img3:hover {
+    transition: all 1s;
+    box-shadow: inset 0px 0px 100px #000000;
+}

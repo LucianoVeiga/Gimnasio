@@ -1,0 +1,46 @@
+.contenido {
+    max-width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    padding-bottom: 40px;
+}
+
+.seccion {
+    padding: 5%;
+    background-color: #202020;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.datos {
+    display: flex;
+}
+
+#dias {
+    background-color: #3b3b3b;
+    padding: 5%;
+}
+
+#arriba {
+    margin-bottom: 5%;
+}
+
+.subt {
+    color: #5477d6;
+}
+
+#fcha {
+    color: #5477d6;
+    margin-top: 5%;
+    display: flex;
+}
+
+#fnalizar {
+    color: white;
+    background-color: rgb(0, 253, 0);
+    margin-left: auto;
+}
+
+#fnalizar:hover {
+    background-color: rgb(34, 165, 34);
+}

@@ -1,0 +1,73 @@
+.contenido {
+    max-width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    padding-bottom: 40px;
+    color: white;
+}
+
+#agregar {
+    padding: 2%;
+    font-size: 15px;
+}
+
+.seccion {
+    padding: 5%;
+    background-color: #202020;
+}
+
+#flex {
+    display: flex;
+}
+
+#parte {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#medida {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#objetivo {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#dia {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#horario {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#comida {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
+#agregado {
+    font-size: 15px;
+    width: 150px;
+    color: white;
+}
+
+#agregado:hover, #agregado:focus, #agregado:active {
+    background-color: rgb(133, 209, 253);
+    transition: background-color 0.5s;
+}
+
+.datosagregados {
+    display: flex;
+    margin-right: 100px;
+}
+
+.secciones {
+    font-size: 15px;
+    color: white;
+    display: flex;
+}

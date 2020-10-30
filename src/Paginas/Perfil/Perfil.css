@@ -1,0 +1,26 @@
+.content {
+    display: flex;
+    margin-left: 1%;
+  }
+
+.subtitulo {
+  color: white;
+}
+
+#tituloperfil {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 0;
+  margin-top: 20%;
+}
+
+#borrar {
+  margin-left: 4%;
+  background-color: rgb(143, 64, 68);
+  color: white;
+}
+
+#borrar:hover, #borrar:focus, #borrar:active {
+  background-color: rgb(163, 0, 8);
+  transition: background-color 0.5s;
+}
