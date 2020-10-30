@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Gimnasio/static/css/main.b826d689.chunk.css",
+    "main.js": "/Gimnasio/static/js/main.3222327c.chunk.js",
+    "main.js.map": "/Gimnasio/static/js/main.3222327c.chunk.js.map",
+    "runtime-main.js": "/Gimnasio/static/js/runtime-main.fcdbbb37.js",
+    "runtime-main.js.map": "/Gimnasio/static/js/runtime-main.fcdbbb37.js.map",
+    "static/js/2.157d4cf8.chunk.js": "/Gimnasio/static/js/2.157d4cf8.chunk.js",
+    "static/js/2.157d4cf8.chunk.js.map": "/Gimnasio/static/js/2.157d4cf8.chunk.js.map",
+    "index.html": "/Gimnasio/index.html",
+    "static/css/main.b826d689.chunk.css.map": "/Gimnasio/static/css/main.b826d689.chunk.css.map",
+    "static/js/2.157d4cf8.chunk.js.LICENSE.txt": "/Gimnasio/static/js/2.157d4cf8.chunk.js.LICENSE.txt",
+    "static/media/Inicio.css": "/Gimnasio/static/media/fondo.2689aecd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcdbbb37.js",
+    "static/js/2.157d4cf8.chunk.js",
+    "static/css/main.b826d689.chunk.css",
+    "static/js/main.3222327c.chunk.js"
+  ]
+}
