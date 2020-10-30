@@ -21,6 +21,7 @@ function App() {
           <Route path="/signup" component={SignUp} />
           <Route path="/login" component={Login} />
           <PrivateRoute path="/" exact component={Inicio} />
+          <PrivateRoute path="/Gimnasio" exact component={Inicio} />
           <PrivateRoute path="/planes-alimenticios" exact component={PlanesAlimenticios} />
           <PrivateRoute path="/mis-logros" exact component={MisLogros} />
           <PrivateRoute path="/crear-plan-alimenticio" exact component={CrearPlanAlimenticio} />
