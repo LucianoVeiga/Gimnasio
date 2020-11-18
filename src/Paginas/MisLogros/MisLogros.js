@@ -81,7 +81,7 @@ class MisLogros extends React.Component {
                         li5.id = "arriba";
                         li6.id = "dias";
                         li7.id = "fcha";
-                        finalizada.src = "Images/Imagen5.png";
+                        finalizada.src = "https://firebasestorage.googleapis.com/v0/b/g-y-m-dc043.appspot.com/o/icons%2FImagen5.png?alt=media&token=94092f29-f458-4ff3-acfd-3f8ded6889e3";
                         finalizada.id = "finalizada";
 
                         subt1.textContent = "Usuario: ";
